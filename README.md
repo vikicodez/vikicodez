@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @vikicodez
+- 👀 I’m interested in coding/hacking
+- 🌱 I’m currently learning python
+- 📫 How to reach me: email: viki783@outlook.com
